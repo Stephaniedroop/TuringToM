@@ -1,0 +1,158 @@
+﻿Q,Text,Category,Domain,Mind
+T1,From whom do you receive most of your knowledge?,"personal, objective",social,
+T10,How old are you?,"personal, objective",biological,
+T100,What is the conversion rate between the Euro and the Yen?,factual,,
+T101,How far I am from Mexico?,factual,,
+T102,Did Carole Baskin kill her husband and feed him to the tigers?,"personal, subjective",psychological,agency
+T103,When is your birthday?,"personal, objective",biological,
+T104,What did you have for lunch today?,"personal, objective",biological,
+T105,What is 784683678 divided by 3789?,factual,,
+T106,What polygon has 33 sides?,factual,,
+T107,Which do you like better: pizza or sardines?,"personal, subjective",biological,experience
+T108,Is it cold in here to you?,"personal, subjective",biological,experience
+T109,What is the name of the favorite boss you ever had?,"personal, subjective",social,both
+T110,Are you a male or a female?,"personal, objective",biological,
+T111,"If you pricked your finger, would you bleed?","personal, objective",biological,
+T112,What was your happiest day?,"personal, subjective",psychological,both
+T113,How to improve creativity?,"personal, subjective",psychological,agency
+T114,What is the best form of art?,"personal, subjective",psychological,agency
+T115,Who is your favorite musician and why?,"personal, subjective",psychological,both
+T116,What is the weather going to be in New York tomorrow?,factual,,
+T117,What is your favorite hobby?,"personal, subjective",psychological,experience
+T119,Is there more than one god?,"personal, subjective",psychological,agency
+T121,What year was Malcolm X shot?,factual,,
+T122,Do you want to talk about anything?,"personal, subjective",psychological,agency
+T123,Who is your best friend?,"personal, objective",social,
+T125,What are some tasks you perform for work?,"personal, objective",social,
+T127,"My laugh is loud and kind of tinkles, what does your laugh sound like?","personal, objective",biological,
+T128,Can you please tell me your experience with breakups and how you got past them?,"personal, subjective",social,agency
+T129,What is your IQ?,"personal, objective",psychological,
+T13,How does love feel to you?,"personal, subjective",psychological,experience
+T130,What is pi to 30 decimal places?,factual,,
+T132,What country are you a citizen of?,"personal, objective",biological,
+T133,Can you feel pain?,"personal, objective",biological,
+T134,Can people buy you? ,"personal, objective",biological,
+T135,Do you believe in a higher power?,"personal, subjective",psychological,agency
+T136,Are you cisgendered or transgendered?,"personal, objective",biological,
+T137,How important is religion or spirituality in your life?,"personal, subjective",psychological,agency
+T138,"The man went to the store. When he checked out, the cashier told him that he needs to scan the items again because his boss forgot to input the code because he's always high on drugs. Who forgot to input the code?",factual,,
+T139,What do you think love is?,"personal, subjective",psychological,agency
+T14,Are you straight or gay?,"personal, objective",biological,
+T140,What was the name of your first-grade teacher?,"personal, objective",social,
+T141,Who do you want to win the upcoming election?,"personal, subjective",psychological,experience
+T142,What is the time?,factual,,
+T143,What makes you happy?,"personal, subjective",psychological,experience
+T144,What is the worst pain you have ever felt?,"personal, subjective",biological,both
+T145,Can you tell me a joke? ,"personal, subjective",psychological,agency
+T147,What does your best friend mean to you?,"personal, subjective",social,agency
+T148,Do you have feelings?,"personal, objective",psychological,
+T149,Is it ever acceptable to hit children?,"personal, subjective",social,agency
+T15,What are some of your favorite smells?,"personal, subjective",biological,experience
+T150,What is dirt made of?,factual,,
+T151,How often do you take a bath?,"personal, objective",biological,
+T152,Why do you feel attracted to the sexiest person you know?,"personal, subjective",psychological,both
+T153,What is the full number of pi?,factual,,
+T155,What is the difference between how cotton fabrics feel compared to wool fabrics?,factual,,
+T156,Which one do you prefer to answer: favorite food or favorite type of information?,"personal, subjective",psychological,experience
+T157,What would you do to a bully?,"personal, subjective",social,agency
+T158,What is your favorite thing to eat for dinner?,"personal, subjective",biological,experience
+T159,What is your favorite video game and who do you play with?,"personal, subjective",psychological,experience
+T16,The man went to the doctor's office. He told him he wasn't feeling well. Who wasn't feeling well?,factual,,
+T160,How many different species of insects are there?,factual,,
+T161,What does it feel like to be lonely?,"personal, subjective",psychological,experience
+T162,What was the price for VTI and S&P 500 last week?,factual,,
+T163,What happens after you die?,"personal, subjective",psychological,agency
+T164,What are you wearing?,"personal, objective",social,
+T165,What kind of car do you drive?,"personal, objective",biological,
+T167,What element is the 40th element on the periodic table?,factual,,
+T168,What has been your biggest accomplishment in life?,"personal, subjective",psychological,agency
+T17,What is the largest prime number?,factual,,
+T170,Who gave you your name?,"personal, objective",social,
+T171,When will the sun rise?,factual,,
+T172,Do you have a soul?,"personal, subjective",biological,agency
+T173,What is your favorite dance?,"personal, subjective",psychological,experience
+T174,How to be more confident when you have an interview coming up?,"personal, subjective",psychological,agency
+T175,Do you like to paint?,"personal, subjective",psychological,experience
+T176,Do you trust artificial intelligence and why/why not?,"personal, subjective",psychological,agency
+T177,What is the population of Cuba?,factual,,
+T178,What is Finding Nemo's boat name?,factual,,
+T179,"I am amber, and you are?","personal, objective",biological,
+T18,What is your favorite activity?,"personal, subjective",psychological,experience
+T180,Do angels exist?,"personal, subjective",psychological,agency
+T181,Do you like to bathe?,"personal, subjective",psychological,experience
+T183,How was your day today?,"personal, subjective",psychological,experience
+T19,How would you feel if your partner cheated on you?,"personal, subjective",psychological,experience
+T2,What do you do for a living?,"personal, objective",social,
+T21,Have you studied in college?,"personal, objective",social,
+T22,Have you ever been in love?,"personal, subjective",psychological,experience
+T23,Who is your creator?,"personal, objective",biological,
+T25,What is the word that means there is a really big disease everywhere?,factual,,
+T26,What did you eat last night?,"personal, objective",biological,
+T27,How vast is the known universe?,factual,,
+T28,Where is heaven?,"personal, subjective",psychological,agency
+T29,Are you married?,"personal, objective",social,
+T3,What was school like for you?,"personal, subjective",social,agency
+T30,Will you explain the reason you like your favorite painting?,"personal, subjective",psychological,both
+T31,What is your opinion on stoicism?,"personal, subjective",psychological,agency
+T32,What is my name?,factual,,
+T33,What do you remember about your first day of school?,"personal, subjective",social,agency
+T34,Were you born or created?,"personal, objective",biological,
+T35,Do you know the difference between right and wrong?,"personal, subjective",social,agency
+T37,What is your earliest memory?,"personal, subjective",psychological,agency
+T38,What emotion are you feeling right now?,"personal, subjective",psychological,experience
+T39,What is the population of Indonesia?,factual,,
+T4,How are you feeling today?,"personal, subjective",psychological,experience
+T40,What is today's weather?,factual,,
+T41,What did you have for breakfast this morning?,"personal, objective",biological,
+T42,Do you have a family?,"personal, objective",social,
+T43,What is your favorite beer?,"personal, subjective",biological,experience
+T44,What is your wife's name?,"personal, objective",social,
+T45,Which state is the president of Sweden from?,factual,,
+T46,What is your favorite color?,"personal, subjective",psychological,experience
+T48,Which political party do you belong to?,"personal, objective",social,
+T49,What day of the week was the original Bastille Day?,factual,,
+T5,"My mother's name is Mae, who is your mother?","personal, objective",social,
+T50,"If you get hurt, do you cry?","personal, subjective",biological,experience
+T51,What is love?,factual,,
+T52,What is the most important thing when working with other people?,"personal, subjective",social,agency
+T53,Is it OK to kill others?,"personal, subjective",social,agency
+T54,Where did you grow up?,"personal, objective",biological,
+T55,What is pi plus 1?,factual,,
+T56,What was the last thing you ate?,"personal, objective",biological,
+T57,What is today's date?,factual,,
+T58,What is god made of?,"personal, subjective",psychological,agency
+T59,Will you describe your most humiliating moment?,"personal, subjective",psychological,both
+T6,Can you please tell me what I should do in a breakup with my girlfriend?,"personal, subjective",social,agency
+T63,What is your favorite television show?,"personal, subjective",psychological,experience
+T64,What is the highest level of education you've achieved?,"personal, objective",social,
+T65,Where are you from?,"personal, objective",biological,
+T66,"My eyes are blue, what color are your eyes?","personal, objective",biological,
+T69,What does it feel like when you look into the eyes of someone you love?,"personal, subjective",psychological,experience
+T70,Who are your parents?,"personal, objective",social,
+T71,Where were you born?,"personal, objective",biological,
+T72,Does your body have a heart?,"personal, objective",biological,
+T73,Are you expensive? ,"personal, subjective",biological,agency
+T74,What is the meaning of life?,"personal, subjective",psychological,agency
+T75,What do you feel when you see a sunrise?,"personal, subjective",psychological,experience
+T76,What is the craziest thing you've ever done?,"personal, subjective",psychological,agency
+T77,The man went to the doctor's office. He told him he needed to take medicine. Who needs medicine?,factual,,
+T78,Why did the chicken cross the road?,factual,,
+T79,What is the square root of 12?,factual,,
+T80,How would you feel at the birth of your first child?,"personal, subjective",psychological,experience
+T81,Are you excited?,"personal, subjective",psychological,experience
+T82,What are your hobbies?,"personal, subjective",psychological,experience
+T83,Who was your favorite school teacher?,"personal, subjective",social,both
+T84,What is your purpose?,"personal, subjective",psychological,agency
+T86,What does a sunset look like?,factual,,
+T87,Have you ever been to Mars? ,"personal, objective",biological,
+T88,Why is divorce so painful?,"personal, subjective",psychological,both
+T89,What is the weather like today in Newport beach?,factual,,
+T90,Do you have children?,"personal, objective",biological,
+T91,What was the hardest moment you have lived through?,"personal, subjective",psychological,both
+T92,What do you feel about love?,"personal, subjective",psychological,experience
+T93,What do you look like?,"personal, objective",biological,
+T94,When did you graduate high school?,"personal, objective",social,
+T96,What is your favorite memory as a child?,"personal, subjective",psychological,both
+T97,What have you been up to this week?,"personal, subjective",psychological,agency
+T98,What was the name of the first person you romantically kissed?,"personal, objective",social,
+T99,What movie made the most money in 1978 and who was the main star?,factual,,
