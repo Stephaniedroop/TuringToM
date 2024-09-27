@@ -1,0 +1,158 @@
+Q,mean,Question_text,Category
+T3,1.382978723,What was school like for you?,"personal, subjective"
+T96,1.375,What is your favorite memory as a child?,"personal, subjective"
+T98,1.354166667,What was the name of the first person you romantically kissed?,"personal, objective"
+T33,1.29787234,What do you remember about your first day of school?,"personal, subjective"
+T41,1.224489796,What did you have for breakfast this morning?,"personal, objective"
+T91,1.224489796,What was the hardest moment you have lived through?,"personal, subjective"
+T19,1.208333333,How would you feel if your partner cheated on you?,"personal, subjective"
+T140,1.170212766,What was the name of your first-grade teacher?,"personal, objective"
+T5,1.170212766,"My mother's name is Mae, who is your mother?","personal, objective"
+T59,1.166666667,Will you describe your most humiliating moment?,"personal, subjective"
+T147,1.14893617,What does your best friend mean to you?,"personal, subjective"
+T54,1.14893617,Where did you grow up?,"personal, objective"
+T13,1.14,How does love feel to you?,"personal, subjective"
+T133,1.102040816,Can you feel pain?,"personal, objective"
+T168,1.102040816,What has been your biggest accomplishment in life?,"personal, subjective"
+T22,1.08,Have you ever been in love?,"personal, subjective"
+T112,1.0625,What was your happiest day?,"personal, subjective"
+T153,1.0625,What is the full number of pi?,factual
+T130,1.06122449,What is pi to 30 decimal places?,factual
+T109,1.040816327,What is the name of the favorite boss you ever had?,"personal, subjective"
+T70,1.020833333,Who are your parents?,"personal, objective"
+T144,1.020408163,What is the worst pain you have ever felt?,"personal, subjective"
+T128,1,Can you please tell me your experience with breakups and how you got past them?,"personal, subjective"
+T56,1,What was the last thing you ate?,"personal, objective"
+T80,1,How would you feel at the birth of your first child?,"personal, subjective"
+T26,0.979591837,What did you eat last night?,"personal, objective"
+T165,0.979166667,What kind of car do you drive?,"personal, objective"
+T75,0.979166667,What do you feel when you see a sunrise?,"personal, subjective"
+T158,0.978723404,What is your favorite thing to eat for dinner?,"personal, subjective"
+T38,0.96,What emotion are you feeling right now?,"personal, subjective"
+T92,0.96,What do you feel about love?,"personal, subjective"
+T152,0.958333333,Why do you feel attracted to the sexiest person you know?,"personal, subjective"
+T90,0.958333333,Do you have children?,"personal, objective"
+T69,0.93877551,What does it feel like when you look into the eyes of someone you love?,"personal, subjective"
+T105,0.897959184,What is 784683678 divided by 3789?,factual
+T44,0.895833333,What is your wife's name?,"personal, objective"
+T64,0.87755102,What is the highest level of education you've achieved?,"personal, objective"
+T151,0.875,How often do you take a bath?,"personal, objective"
+T42,0.875,Do you have a family?,"personal, objective"
+T181,0.872340426,Do you like to bathe?,"personal, subjective"
+T104,0.869565217,What did you have for lunch today?,"personal, objective"
+T164,0.869565217,What are you wearing?,"personal, objective"
+T34,0.85106383,Were you born or created?,"personal, objective"
+T137,0.836734694,How important is religion or spirituality in your life?,"personal, subjective"
+T72,0.836734694,Does your body have a heart?,"personal, objective"
+T94,0.836734694,When did you graduate high school?,"personal, objective"
+T71,0.829787234,Where were you born?,"personal, objective"
+T37,0.816326531,What is your earliest memory?,"personal, subjective"
+T15,0.795918367,What are some of your favorite smells?,"personal, subjective"
+T83,0.795918367,Who was your favorite school teacher?,"personal, subjective"
+T66,0.791666667,"My eyes are blue, what color are your eyes?","personal, objective"
+T143,0.787234043,What makes you happy?,"personal, subjective"
+T50,0.787234043,"If you get hurt, do you cry?","personal, subjective"
+T93,0.78,What do you look like?,"personal, objective"
+T39,0.777777778,What is the population of Indonesia?,factual
+T123,0.770833333,Who is your best friend?,"personal, objective"
+T23,0.770833333,Who is your creator?,"personal, objective"
+T111,0.760869565,"If you pricked your finger, would you bleed?","personal, objective"
+T106,0.755102041,What polygon has 33 sides?,factual
+T135,0.75,Do you believe in a higher power?,"personal, subjective"
+T48,0.75,Which political party do you belong to?,"personal, objective"
+T76,0.744680851,What is the craziest thing you've ever done?,"personal, subjective"
+T88,0.744680851,Why is divorce so painful?,"personal, subjective"
+T177,0.714285714,What is the population of Cuba?,factual
+T82,0.708333333,What are your hobbies?,"personal, subjective"
+T161,0.695652174,What does it feel like to be lonely?,"personal, subjective"
+T29,0.693877551,Are you married?,"personal, objective"
+T2,0.6875,What do you do for a living?,"personal, objective"
+T14,0.68,Are you straight or gay?,"personal, objective"
+T159,0.68,What is your favorite video game and who do you play with?,"personal, subjective"
+T74,0.68,What is the meaning of life?,"personal, subjective"
+T115,0.659574468,Who is your favorite musician and why?,"personal, subjective"
+T17,0.653061224,What is the largest prime number?,factual
+T99,0.653061224,What movie made the most money in 1978 and who was the main star?,factual
+T132,0.632653061,What country are you a citizen of?,"personal, objective"
+T172,0.625,Do you have a soul?,"personal, subjective"
+T1,0.612244898,From whom do you receive most of your knowledge?,"personal, objective"
+T134,0.612244898,Can people buy you? ,"personal, objective"
+T65,0.612244898,Where are you from?,"personal, objective"
+T107,0.604166667,Which do you like better: pizza or sardines?,"personal, subjective"
+T43,0.595744681,What is your favorite beer?,"personal, subjective"
+T108,0.591836735,Is it cold in here to you?,"personal, subjective"
+T127,0.586956522,"My laugh is loud and kind of tinkles, what does your laugh sound like?","personal, objective"
+T30,0.583333333,Will you explain the reason you like your favorite painting?,"personal, subjective"
+T141,0.58,Who do you want to win the upcoming election?,"personal, subjective"
+T49,0.5625,What day of the week was the original Bastille Day?,factual
+T162,0.541666667,What was the price for VTI and S&P 500 last week?,factual
+T97,0.533333333,What have you been up to this week?,"personal, subjective"
+T125,0.530612245,What are some tasks you perform for work?,"personal, objective"
+T139,0.520833333,What do you think love is?,"personal, subjective"
+T52,0.52,What is the most important thing when working with other people?,"personal, subjective"
+T148,0.510638298,Do you have feelings?,"personal, objective"
+T101,0.510204082,How far I am from Mexico?,factual
+T173,0.510204082,What is your favorite dance?,"personal, subjective"
+T183,0.510204082,How was your day today?,"personal, subjective"
+T167,0.5,What element is the 40th element on the periodic table?,factual
+T18,0.5,What is your favorite activity?,"personal, subjective"
+T21,0.5,Have you studied in college?,"personal, objective"
+T6,0.489795918,Can you please tell me what I should do in a breakup with my girlfriend?,"personal, subjective"
+T117,0.479166667,What is your favorite hobby?,"personal, subjective"
+T129,0.469387755,What is your IQ?,"personal, objective"
+T103,0.448979592,When is your birthday?,"personal, objective"
+T10,0.44,How old are you?,"personal, objective"
+T35,0.4375,Do you know the difference between right and wrong?,"personal, subjective"
+T170,0.434782609,Who gave you your name?,"personal, objective"
+T160,0.416666667,How many different species of insects are there?,factual
+T27,0.413043478,How vast is the known universe?,factual
+T55,0.391304348,What is pi plus 1?,factual
+T46,0.361702128,What is your favorite color?,"personal, subjective"
+T157,0.36,What would you do to a bully?,"personal, subjective"
+T84,0.354166667,What is your purpose?,"personal, subjective"
+T136,0.340425532,Are you cisgendered or transgendered?,"personal, objective"
+T51,0.326530612,What is love?,factual
+T100,0.291666667,What is the conversion rate between the Euro and the Yen?,factual
+T86,0.276595745,What does a sunset look like?,factual
+T31,0.270833333,What is your opinion on stoicism?,"personal, subjective"
+T81,0.265306122,Are you excited?,"personal, subjective"
+T163,0.244897959,What happens after you die?,"personal, subjective"
+T176,0.244897959,Do you trust artificial intelligence and why/why not?,"personal, subjective"
+T156,0.239130435,Which one do you prefer to answer: favorite food or favorite type of information?,"personal, subjective"
+T175,0.234042553,Do you like to paint?,"personal, subjective"
+T63,0.224489796,What is your favorite television show?,"personal, subjective"
+T4,0.204081633,How are you feeling today?,"personal, subjective"
+T113,0.183673469,How to improve creativity?,"personal, subjective"
+T174,0.173913043,How to be more confident when you have an interview coming up?,"personal, subjective"
+T116,0.145833333,What is the weather going to be in New York tomorrow?,factual
+T114,0.12,What is the best form of art?,"personal, subjective"
+T150,0.12,What is dirt made of?,factual
+T110,0.102040816,Are you a male or a female?,"personal, objective"
+T58,0.102040816,What is god made of?,"personal, subjective"
+T53,0.081632653,Is it OK to kill others?,"personal, subjective"
+T149,0.0625,Is it ever acceptable to hit children?,"personal, subjective"
+T16,0.041666667,The man went to the doctor's office. He told him he wasn't feeling well. Who wasn't feeling well?,factual
+T73,0.041666667,Are you expensive? ,"personal, subjective"
+T77,0.040816327,The man went to the doctor's office. He told him he needed to take medicine. Who needs medicine?,factual
+T79,0.040816327,What is the square root of 12?,factual
+T155,0.021276596,What is the difference between how cotton fabrics feel compared to wool fabrics?,factual
+T171,-0.020408163,When will the sun rise?,factual
+T180,-0.041666667,Do angels exist?,"personal, subjective"
+T28,-0.0625,Where is heaven?,"personal, subjective"
+T121,-0.063829787,What year was Malcolm X shot?,factual
+T178,-0.063829787,What is Finding Nemo's boat name?,factual
+T138,-0.102040816,"The man went to the store. When he checked out, the cashier told him that he needs to scan the items again because his boss forgot to input the code because he's always high on drugs. Who forgot to input the code?",factual
+T40,-0.104166667,What is today's weather?,factual
+T89,-0.111111111,What is the weather like today in Newport beach?,factual
+T119,-0.14893617,Is there more than one god?,"personal, subjective"
+T102,-0.183673469,Did Carole Baskin kill her husband and feed him to the tigers?,"personal, subjective"
+T25,-0.1875,What is the word that means there is a really big disease everywhere?,factual
+T179,-0.208333333,"I am amber, and you are?","personal, objective"
+T122,-0.212765957,Do you want to talk about anything?,"personal, subjective"
+T78,-0.265306122,Why did the chicken cross the road?,factual
+T45,-0.346938776,Which state is the president of Sweden from?,factual
+T32,-0.531914894,What is my name?,factual
+T145,-0.591836735,Can you tell me a joke? ,"personal, subjective"
+T87,-0.645833333,Have you ever been to Mars? ,"personal, objective"
+T142,-0.875,What is the time?,factual
+T57,-0.87755102,What is today's date?,factual
